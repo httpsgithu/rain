@@ -28,7 +28,7 @@
     "koa-router": "^7.2.0",
     "koa-session2": "^2.2.4",
     "koa-simple-ratelimit": "^2.2.3",
-    "log4js": "^1.1.1",
+    "log4js": "^6.4.0",
     "md5": "^2.2.1",
     "methods": "^1.1.2",
     "moment": "^2.18.1",
