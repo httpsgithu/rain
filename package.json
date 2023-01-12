@@ -13,7 +13,7 @@
     "busboy": "^0.2.14",
     "ccap": "^0.6.10",
     "codepage": "^1.9.0",
-    "debug": "^2.6.8",
+    "debug": "^2.6.9",
     "emailjs": "^1.0.9",
     "form-data": "^2.2.0",
     "ioredis": "^2.5.0",
